@@ -1,9 +1,4 @@
-import React from 'react';
-
+import { render } from 'react-dom';
 import { App } from './App';
 
-export function Wrapper() {
-  return (
-    <App />
-  );
-}
+render(<App />, document.getElementById('root'));
