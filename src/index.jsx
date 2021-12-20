@@ -1,7 +1,9 @@
 import React from 'react';
 
-export function App() {
+import { App } from './App';
+
+export function Wrapper() {
   return (
-    <h1>Oi</h1>
+    <App />
   );
 }
