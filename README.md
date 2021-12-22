@@ -1,8 +1,6 @@
 # Curso Ignite da Rocketeeat - Trilha de ReactJS
 
-## Fundamentos de ReactJS
-
-## App GitHub Explorer
+## Fundamentos de ReactJS: App GitHub Explorer
 
 ## Como utilizar o código:
 1. Fazer clone do repositório
